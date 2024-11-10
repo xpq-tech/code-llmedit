@@ -1,0 +1,6 @@
+
+alg_name: "non-edit"
+model_name: "../ptms/CodeQwen1.5-7B"
+device: 0
+model_parallel: false
+fp16: true

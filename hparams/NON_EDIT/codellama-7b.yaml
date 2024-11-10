@@ -1,0 +1,5 @@
+alg_name: "non-edit"
+model_name: "../ptms/CodeLlama-7b-hf"
+device: 0
+model_parallel: false
+fp16: true

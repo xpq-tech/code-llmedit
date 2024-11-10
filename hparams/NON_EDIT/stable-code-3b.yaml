@@ -1,0 +1,6 @@
+
+alg_name: "non-edit"
+model_name: "../ptms/stable-code-3b"
+device: 0
+model_parallel: false
+fp16: true
