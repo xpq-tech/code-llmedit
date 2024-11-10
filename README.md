@@ -1,6 +1,6 @@
 # CLMEEval
 
-This is a repository of our paper "Model Editing for LLMs4Code: How Far are We?"
+This repository contains the code for our paper, "Model Editing for LLMs4Code: How Far Are We?", accepted at ICSE 2025.
 
 ## Requirements
 
